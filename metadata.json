@@ -1,0 +1,6 @@
+{
+  "name": "Neural Core",
+  "description": "Elite Performance AI Productivity Companion with real-time focus monitoring.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
